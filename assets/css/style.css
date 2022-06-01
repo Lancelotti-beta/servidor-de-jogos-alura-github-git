@@ -1,0 +1,22 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.cabecalho__menu {
+    display: flex;
+}
+
+.menu-item {
+    list-style: none;
+    gap: 8px;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: rgb(14, 13, 13);
+}
