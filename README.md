@@ -6,3 +6,6 @@
 
 Recomendado iniciar o projeto com o GitBash em sua maquina 
 
+```
+node app.js
+```
